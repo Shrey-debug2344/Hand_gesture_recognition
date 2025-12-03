@@ -76,5 +76,7 @@ Add voice commands or system control integration
 ## 📬 Contact
 Created with 💙 by Hemanth Kumar
 
-Feel free to connect on www.linkedin.com/in/hemanthkumar001
+Feel free to connect on https://www.linkedin.com/in/akshat-singh-670257399/<img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/b58a3203-5ad9-4fd7-bd7c-3dc8ca31ec1e" />
+
+
 Or drop a ⭐️ if you like the project!
