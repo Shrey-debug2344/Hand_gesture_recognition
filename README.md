@@ -74,4 +74,4 @@ Improve model accuracy by collecting more data
 Add voice commands or system control integration
 
 ## 📬 Contact
-Created with 💙 by Akshat Singh
+Created with 💙 by Shrey Pandey
